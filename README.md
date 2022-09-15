@@ -1,7 +1,7 @@
 # flet-hacks
 Quick hacks with Flet / Flutter.
 
-flet-screenshot.py - Screenshot the Flet Window
+flet-screenshot.py - Screenshot the Flet application window
 
 https://github.com/hololeo/flet-hacks/blob/main/flet-screenshot.py
 
