@@ -1,2 +1,2 @@
 # flet-hacks
-Quick hacks with Flet
+Quick hacks with Flet / Flutter.
