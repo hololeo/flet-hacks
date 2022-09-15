@@ -1,9 +1,7 @@
 # by hololeo
 from flet import flet, Page, Image, Container, Text, TextField, Row, Column, ElevatedButton, alignment
 import time
-import pyscreenshot as ImageGrab
-
-# pip3 install pyscreenshot
+import pyscreenshot as ImageGrab  # pip3 install pyscreenshot
 
 def take_screenshot (e):
     page = e.control.page
