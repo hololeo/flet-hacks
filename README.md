@@ -1,5 +1,5 @@
 # flet-hacks
-Quick hacks with Flet / Flutter.
+## Quick hacks with Flet / Flutter.
 
 flet-screenshot.py - Screenshot the Flet application window
 
