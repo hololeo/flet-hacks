@@ -1,6 +1,7 @@
 # flet-hacks
 ## Quick hacks with Flet / Flutter.
 
+**If you find these hacks useful, you can support it for free by clicking Star repo.**
 
 flet-qr-tool.py - Generate QR codes in realtime with Flet
 
