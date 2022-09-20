@@ -2,6 +2,12 @@
 ## Quick hacks with Flet / Flutter.
 
 
+flet-cpu.py - Stress testing cpu with thread UI updates
+
+https://github.com/hololeo/flet-hacks/blob/main/flet-cpu.py
+
+https://user-images.githubusercontent.com/11970940/191365761-8a4fca69-0397-4bea-963c-4f0b40413204.mp4
+
 flet-screenshot.py - Screenshot the Flet application window
 
 https://github.com/hololeo/flet-hacks/blob/main/flet-screenshot.py
