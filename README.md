@@ -2,6 +2,12 @@
 ## Quick hacks with Flet / Flutter.
 
 
+flet-qr-tool.py - Generate QR codes in realtime with Flet
+
+https://github.com/hololeo/flet-hacks/blob/main/flet-qr-tool.py
+
+https://user-images.githubusercontent.com/11970940/191378393-29992887-963a-4d9f-9337-1d58a4c53ff8.mp4
+
 flet-cpu.py - Stress testing cpu with thread UI updates
 
 https://github.com/hololeo/flet-hacks/blob/main/flet-cpu.py
