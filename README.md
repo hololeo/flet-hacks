@@ -1,7 +1,7 @@
 # flet-hacks
 ## Quick hacks with Flet / Flutter.
 
-**If you find these hacks useful, you can support it for free by clicking Star repo.**
+**If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.**
 
 **flet-spot.py - Load live kitco metal prices  in Flet**
 
