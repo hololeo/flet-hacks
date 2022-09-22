@@ -1,4 +1,4 @@
-# Flet Metals Spot Prices by hololeo
+# Flet Metals Spot Kitco Prices by Hololeo
 
 import flet
 from flet import Page, Tab, Tabs, Image
@@ -14,18 +14,13 @@ def update_App():
     update_App()
 
 def getSilver():
-    url = f"https://www.kitco.com/images/live/silver.gif?ts={time.time()}"
-    return Image(src=url)
+    return Image(src=f"https://www.kitco.com/images/live/silver.gif?ts={time.time()}")
 
 def getGold():
-    url = f"https://www.kitco.com/images/live/gold.gif?ts={time.time()}"
-    img = Image(src=url)
-    return img
+    return Image(src=f"https://www.kitco.com/images/live/gold.gif?ts={time.time()}")
 
 def getPlatinum():
-    ts = time.clock_gettime_ns(0)
-    url = f"https://www.kitco.com/images/live/plati.gif?ts={time.time()}"
-    return Image(src=url)
+    return Image(src=f"https://www.kitco.com/images/live/plati.gif?ts={time.time()}")
 
 def tab_on_change (e):
     update_tabs ()
@@ -62,6 +57,5 @@ def main(page: Page):
     th = threading.Thread (target=update_App, args={}, daemon=True)
     th.start()
     
-
 flet.app(target=main)
 
