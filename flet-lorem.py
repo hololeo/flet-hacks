@@ -1,10 +1,12 @@
 # Flet Lorem Ipsum Generator - Hololeo Labs
 import flet
-from flet import Page, Row, Column, Text, TextField, Slider, Dropdown, dropdown, padding
+from flet import Page, Row, Column, Text, TextField, Slider, Dropdown
+from flet import dropdown, padding
 
 def main(page: Page):
     page.title = "Flet Lorem Ipsum Generator - Hololeo Labs"
     page.window_always_on_top = True
+    page.window_opacity = 0.85
     page.bgcolor = "#262d2f"
     page.vertical_alignment = "start"
     page.padding = 10
