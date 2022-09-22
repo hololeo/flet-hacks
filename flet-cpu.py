@@ -19,3 +19,4 @@ def main (page:Page):
     page.th.start()
     page.update()    
 flet.app (target=main)
+#flet.app(target=main, view=flet.WEB_BROWSER)
