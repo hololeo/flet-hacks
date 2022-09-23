@@ -3,6 +3,10 @@
 
 **If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.**
 
+**flet-ping - running ping in subprocess and capturing output in flet demo**
+
+![flet-ping](https://user-images.githubusercontent.com/11970940/192004308-fb89220a-a733-402d-8491-841f6f6d746b.gif)
+
 **flet-scroller - marquee scrolling text in flet demo**
 
 https://user-images.githubusercontent.com/11970940/191901260-d83f9c8b-6c7b-4320-93ca-b99911d0a219.mp4
