@@ -3,6 +3,12 @@
 
 **If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.**
 
+
+**flet-ruler  - screen pixel ruler**
+
+https://user-images.githubusercontent.com/11970940/191897998-a666d0b8-1bda-493c-95e5-6e783b2232e8.mp4
+
+
 **flet-spot.py - Load live kitco metal prices  in Flet**
 
 https://github.com/hololeo/flet-hacks/blob/main/flet-spot.py
