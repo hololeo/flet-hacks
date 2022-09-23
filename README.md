@@ -3,6 +3,18 @@
 
 **If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.**
 
+**flet-qr-tool.py - Generate QR codes in realtime with Flet**
+
+https://github.com/hololeo/flet-hacks/blob/main/flet-qr-tool.py
+
+https://user-images.githubusercontent.com/11970940/191378393-29992887-963a-4d9f-9337-1d58a4c53ff8.mp4
+
+**flet-spot.py - Load live kitco metal prices  in Flet**
+
+https://github.com/hololeo/flet-hacks/blob/main/flet-spot.py
+
+https://user-images.githubusercontent.com/11970940/191563470-bc9d371e-66d0-4493-9734-c694511e5468.mp4
+
 **flet-ping - running ping in subprocess and capturing output in flet demo**
 
 ![flet-ping](https://user-images.githubusercontent.com/11970940/192004308-fb89220a-a733-402d-8491-841f6f6d746b.gif)
@@ -15,18 +27,6 @@ https://user-images.githubusercontent.com/11970940/191901260-d83f9c8b-6c7b-4320-
 
 https://user-images.githubusercontent.com/11970940/191897998-a666d0b8-1bda-493c-95e5-6e783b2232e8.mp4
 
-
-**flet-spot.py - Load live kitco metal prices  in Flet**
-
-https://github.com/hololeo/flet-hacks/blob/main/flet-spot.py
-
-https://user-images.githubusercontent.com/11970940/191563470-bc9d371e-66d0-4493-9734-c694511e5468.mp4
-
-**flet-qr-tool.py - Generate QR codes in realtime with Flet**
-
-https://github.com/hololeo/flet-hacks/blob/main/flet-qr-tool.py
-
-https://user-images.githubusercontent.com/11970940/191378393-29992887-963a-4d9f-9337-1d58a4c53ff8.mp4
 
 **flet-cpu.py - Stress testing cpu with thread UI updates**
 
