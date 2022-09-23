@@ -25,8 +25,7 @@ https://user-images.githubusercontent.com/11970940/191901260-d83f9c8b-6c7b-4320-
 
 **flet-ruler  - screen pixel ruler**
 
-https://user-images.githubusercontent.com/11970940/191897998-a666d0b8-1bda-493c-95e5-6e783b2232e8.mp4
-
+![flet-ruler-2](https://user-images.githubusercontent.com/11970940/192063025-94f45474-f748-4261-bdd3-dd14298df413.gif)
 
 **flet-cpu.py - Stress testing cpu with thread UI updates**
 
