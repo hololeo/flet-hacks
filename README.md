@@ -3,6 +3,9 @@
 
 **If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.**
 
+**flet-scroller - marquee scrolling text in flet demo**
+
+https://user-images.githubusercontent.com/11970940/191901260-d83f9c8b-6c7b-4320-93ca-b99911d0a219.mp4
 
 **flet-ruler  - screen pixel ruler**
 
