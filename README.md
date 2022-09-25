@@ -3,6 +3,10 @@
 
 **If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.**
 
+**flet-ocr.py - OCR tool with Flet**
+
+![flet-ocr-demo](https://user-images.githubusercontent.com/11970940/192157189-c018eca3-04ea-4259-9f62-5d46dcc1cccc.gif)
+
 **flet-qr-tool.py - Generate QR codes in realtime with Flet**
 
 https://github.com/hololeo/flet-hacks/blob/main/flet-qr-tool.py
