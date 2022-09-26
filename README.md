@@ -22,6 +22,11 @@ https://user-images.githubusercontent.com/11970940/191563470-bc9d371e-66d0-4493-
 
 ![flet-ping](https://user-images.githubusercontent.com/11970940/192004308-fb89220a-a733-402d-8491-841f6f6d746b.gif)
 
+**flet-mousexy.py - mouse position in Flet**
+
+![flet-mouseposition-demo](https://user-images.githubusercontent.com/11970940/192187864-a68a0504-1b50-450f-b5d8-16de2bda914c.gif)
+
+
 **flet-scroller - marquee scrolling text in flet demo**
 
 https://user-images.githubusercontent.com/11970940/191901260-d83f9c8b-6c7b-4320-93ca-b99911d0a219.mp4
