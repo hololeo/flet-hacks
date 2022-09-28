@@ -6,6 +6,12 @@
 
 ![flet-ocr-demo](https://user-images.githubusercontent.com/11970940/192157189-c018eca3-04ea-4259-9f62-5d46dcc1cccc.gif)
 
+**flet-svg-vs-png.py - SVG vs PNG scaling demo in flet 0.1.60
+
+https://github.com/hololeo/flet-hacks/blob/main/flet-svg-vs-png.py
+
+![flet-svg-scaling](https://user-images.githubusercontent.com/11970940/192691399-91660c6d-00e7-4ae7-a651-1c04f2499698.gif)
+
 **flet-qr-tool.py - Generate QR codes in realtime with Flet**
 
 https://github.com/hololeo/flet-hacks/blob/main/flet-qr-tool.py
