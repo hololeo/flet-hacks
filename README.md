@@ -6,14 +6,14 @@
 
 ![flet-ocr-demo](https://user-images.githubusercontent.com/11970940/192157189-c018eca3-04ea-4259-9f62-5d46dcc1cccc.gif)
 
-**Transparent desktop clock demo in flet 0.1.60
+**Transparent desktop clock demo in flet 0.1.60**
 
 ![flet-transparent-clock](https://user-images.githubusercontent.com/11970940/192938226-fd7a2054-4751-429b-989c-f90df6a30181.gif)
 
 
 https://github.com/hololeo/flet-hacks/blob/main/flet-svg-vs-png.py
 
-**flet-svg-vs-png.py - SVG vs PNG scaling demo in flet 0.1.60
+**flet-svg-vs-png.py - SVG vs PNG scaling demo in flet 0.1.60**
 
 https://github.com/hololeo/flet-hacks/blob/main/flet-svg-vs-png.py
 
