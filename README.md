@@ -10,6 +10,11 @@
 
 ![flet-transparent-clock](https://user-images.githubusercontent.com/11970940/192938226-fd7a2054-4751-429b-989c-f90df6a30181.gif)
 
+**Note low cpu/memory use of transparent clock in flet 0.1.60!**
+
+![flet-low-cpu](https://user-images.githubusercontent.com/11970940/192941697-8d8a1c0e-8ef4-4ac1-a111-2e1730effe66.gif)
+
+
 **flet-svg-vs-png.py - SVG vs PNG scaling demo in flet 0.1.60**
 
 https://github.com/hololeo/flet-hacks/blob/main/flet-svg-vs-png.py
