@@ -2,7 +2,7 @@
 
 ## If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.
 
-**flet-pong - pong transparent demo in flet 0.1.60**
+**flet-pong - pong transparent demo (60 fps) in flet 0.1.60**
 
 ![flet-pong-2](https://user-images.githubusercontent.com/11970940/193083131-3301d196-a28d-4dc3-af4c-f786a471187b.gif)
 
