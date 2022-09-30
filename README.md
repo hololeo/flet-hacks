@@ -11,7 +11,13 @@
 
 ![flet-ocr-demo](https://user-images.githubusercontent.com/11970940/192157189-c018eca3-04ea-4259-9f62-5d46dcc1cccc.gif)
 
+**Hammer time in flet 0.1.60**
+
+![flet-hammer](https://user-images.githubusercontent.com/11970940/193357880-59c36b19-b32f-46b7-9ac6-515e248a854c.gif)
+
 **Transparent desktop clock demo in flet 0.1.60**
+
+![flet-transparent-clock](https://user-images.githubusercontent.com/11970940/192938226-fd7a2054-4751-429b-989c-f90df6a30181.gif)
 
 ![flet-transparent-clock](https://user-images.githubusercontent.com/11970940/192938226-fd7a2054-4751-429b-989c-f90df6a30181.gif)
 
