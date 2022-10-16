@@ -2,6 +2,10 @@
 
 ## If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.
 
+**flet-reader - text to speech reader**
+
+https://user-images.githubusercontent.com/11970940/196021480-23da6ba7-8743-4dd6-894e-f39c73ec6a9b.mp4
+
 **flet-pong - pong transparent demo (60 fps) in flet 0.1.60**
 
 ![flet-pong-2](https://user-images.githubusercontent.com/11970940/193083131-3301d196-a28d-4dc3-af4c-f786a471187b.gif)
