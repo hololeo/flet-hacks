@@ -2,10 +2,11 @@
 
 ## If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.
 
-**flet-shell - flet commandline - experimental!**
+**flet-shell - flet command line - experimental!**
+
+https://github.com/hololeo/flet-hacks/blob/main/flet-shell.py
 
 ![flet-shell](https://user-images.githubusercontent.com/11970940/196218827-fc569742-5b26-427d-b283-f3cba06ffec1.gif)
-
 
 **flet-reader - text to speech reader**
 
@@ -58,6 +59,7 @@ https://user-images.githubusercontent.com/11970940/191563470-bc9d371e-66d0-4493-
 **flet-mousexy.py - mouse position in Flet**
 
 ![flet-mouseposition-demo](https://user-images.githubusercontent.com/11970940/192187864-a68a0504-1b50-450f-b5d8-16de2bda914c.gif)
+
 
 
 **flet-scroller - marquee scrolling text in flet demo**
