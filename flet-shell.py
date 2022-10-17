@@ -1,5 +1,5 @@
 # Flet Shell - Hololeo labs
-# passes a command line to shell, and captures and displays output
+# passes a command line to shell, captures and displays output
 # WARNING EXPERIMENTAL - running this gives direct access to your shell!
 # needs optimizations, etc - 'its a hack!'
 
