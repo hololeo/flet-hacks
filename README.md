@@ -2,6 +2,11 @@
 
 ## If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.
 
+**flet-shell - flet commandline - experimental!**
+
+![flet-shell](https://user-images.githubusercontent.com/11970940/196218827-fc569742-5b26-427d-b283-f3cba06ffec1.gif)
+
+
 **flet-reader - text to speech reader**
 
 https://user-images.githubusercontent.com/11970940/196021480-23da6ba7-8743-4dd6-894e-f39c73ec6a9b.mp4
