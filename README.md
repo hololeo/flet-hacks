@@ -4,8 +4,6 @@
 
 **flet-shell - flet command line - experimental!**
 
-https://github.com/hololeo/flet-hacks/blob/main/flet-shell.py
-
 ![flet-shell](https://user-images.githubusercontent.com/11970940/196218827-fc569742-5b26-427d-b283-f3cba06ffec1.gif)
 
 **flet-reader - text to speech reader**
