@@ -2,6 +2,12 @@
 
 ## If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.
 
+
+**flet-browser - render html in Flet - experimental!**
+
+https://user-images.githubusercontent.com/11970940/197666314-1c0e7cd7-6bea-460f-9c93-8ca4b5a569db.mp4
+
+
 **flet-shell - flet command line - experimental!**
 
 ![flet-shell](https://user-images.githubusercontent.com/11970940/196218827-fc569742-5b26-427d-b283-f3cba06ffec1.gif)
