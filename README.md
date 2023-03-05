@@ -3,6 +3,10 @@
 ## If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.
 
 
+**Flet + Textual - experimental!**
+
+https://user-images.githubusercontent.com/11970940/222953558-d8e2bb7e-7216-42d3-ae6c-96cf79e9daa0.mp4
+
 **flet-browser - render html in Flet - experimental!**
 
 https://user-images.githubusercontent.com/11970940/197666314-1c0e7cd7-6bea-460f-9c93-8ca4b5a569db.mp4
@@ -63,8 +67,6 @@ https://user-images.githubusercontent.com/11970940/191563470-bc9d371e-66d0-4493-
 **flet-mousexy.py - mouse position in Flet**
 
 ![flet-mouseposition-demo](https://user-images.githubusercontent.com/11970940/192187864-a68a0504-1b50-450f-b5d8-16de2bda914c.gif)
-
-
 
 **flet-scroller - marquee scrolling text in flet demo**
 
