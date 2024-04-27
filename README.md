@@ -2,6 +2,10 @@
 
 ## If you find these hacks useful, you can support it for free by clicking ⭐ Star repo.
 
+**flet-z- Flet running ontop of the Flet Homepage**
+
+![fletz](https://github.com/hololeo/flet-hacks/assets/11970940/e404bd95-4c9d-4a81-b92d-054a437e9b65)
+
 
 **Flet + Textual - experimental!**
 
